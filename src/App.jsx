@@ -17,13 +17,13 @@ function App() {
     {
       name: "WhatsApp",
       icon: <FaWhatsapp />,
-      url: "https://wa.me/919946320320",
+      url: "https://wa.me/919947120999",
       color: "#00b31e",
     },
     {
       name: "Instagram",
       icon: <FaInstagram />,
-      url: "https://www.instagram.com/raazholidays_nadapuram?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      url: "https://www.instagram.com/raaz_holidays?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
       color: "#e4405f",
     },
     {
